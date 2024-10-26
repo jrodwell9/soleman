@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Soleman Website
+
+React.js website for a cobblers business.
+
+![CI/CD](https://github.com/jrodwell9/soleman/workflows/CI/CD/badge.svg)
+>>>>>>> 63709b0fdca1c6a3c0751e2cfc2d39420720bf00
